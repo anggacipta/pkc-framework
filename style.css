@@ -1,0 +1,30 @@
+body{
+    font-family: 'Inter', sans-serif;
+}
+
+.bg-custom{
+    background-color: #b47ef6;
+}
+
+.container-custom{
+    margin: 0 30px;
+}
+
+.btn-purple{
+    background-color: #AD7BE9;
+}
+
+.btn-purple:hover{
+    background-color: white;
+    color: #AD7BE9;
+}
+
+.btn-outer-purple{
+    background-color: white;
+    border-color: #AD7BE9;
+    color: #AD7BE9;
+}
+.btn-outer-purple:hover{
+    background-color: #AD7BE9;
+    color: white;
+}
